@@ -12,11 +12,10 @@
   </a>
 </p>
 
-```math
-$$\ce{$&#x5C;unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/Xoncia/Xoncia/blob/master/ok.gif?raw=true');]{x0000}$}
+```math \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}
 ```
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Xoncia/Xoncia/output/github-contribution-grid-snake-dark.svg)
-https://github.com/Xoncia/Xoncia/blob/master/ok.gif?raw=true
 ## 🚀 Technologies & Tools
 
 ### Languages
