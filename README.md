@@ -94,3 +94,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Xoncia&theme=onedark&column=-1)
 
 ## ⭐ My Projects
+
+### TO BE UPDATED: 
+personal projects aren't uploaded on here, will add something significant whenever
